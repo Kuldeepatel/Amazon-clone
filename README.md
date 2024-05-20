@@ -1,6 +1,6 @@
 # Amazon Clone using MERN Stack
 ## Overview
-This project is an Amazon clone built using the MERN stack. The stack comprises MongoDB, Express, React, and Node.js. Additionally, it incorporates Stripe for payment processing and Axios for handling HTTP requests.
+This project is an Amazon clone built using the MERN stack. The stack comprises MongoDB, Express, React, and Node.js. Additionally, Stripe for payment processing and Axios for handling HTTP requests.
 
 
 ## Tech Stack
@@ -8,16 +8,19 @@ This project is an Amazon clone built using the MERN stack. The stack comprises 
 ### Frontend:
 
 React
+
 Axios
 
 ### Backend:
 
 Node.js
+
 Express.js
 
 ### Database:
 
 MongoDB
+
 ### Payment Processing:
 
 Stripe
