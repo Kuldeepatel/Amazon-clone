@@ -68,14 +68,12 @@ const Container = styled.div`
   flex: 1;
   width: 100%;
   background-color: rgb(234, 237, 237);
-  max-width: 1400px;
-  margin: auto;
+  max-width: 100%; /* Change from 1400px to 100% */
+  margin: 0 auto; /* Ensure margin is set to auto for centering */
   height: fit-content;
   display: flex;
   flex-direction: column;
-
 `;
-
 const Banner = styled(Slider)`
   width: 100%;
   margin-bottom: 20px;
